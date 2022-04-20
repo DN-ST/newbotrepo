@@ -68,7 +68,7 @@ thehamkercat@arch:~$ python3 -m wbb
 
 <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/Dhaneshwar-singh/sheeba-v3">
+        <a href="https://heroku.com/deploy?template=https://github.com/DN-ST/newbotrepo">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
